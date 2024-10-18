@@ -4,15 +4,17 @@ Objective: Try out Tink library.
 
 ## Resources
 
-* [Tink for Python How-To](https://fuchsia.googlesource.com/third_party/tink/+/refs/tags/v1.4.0-rc1/docs/PYTHON-HOWTO.md)
+* [Tink for Python How-To](https://android.googlesource.com/platform/external/tink/+/HEAD/docs/PYTHON-HOWTO.md)
 * [Getting Started Overview | Tink](https://developers.google.com/tink/getting-started)
 * [Project IDX](https://idx.google.com/)
 
 
-## Steps
+## Setup
 
 1. Set up workspace in Google IDX, e.g., 
 https://idx.google.com/tink-RANDOMNUMBER
+
+    See also [Python project in Google IDX](https://github.com/christianepeters/howto/blob/master/projectidx.md).
 
 2. Activate environment
     ```

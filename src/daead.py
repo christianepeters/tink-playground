@@ -1,3 +1,4 @@
+# source: https://android.googlesource.com/platform/external/tink/+/HEAD/docs/PYTHON-HOWTO.md#deterministic-symmetric-key-encryption
 import tink
 from tink import daead
 

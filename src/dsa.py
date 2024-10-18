@@ -1,3 +1,4 @@
+# source: https://android.googlesource.com/platform/external/tink/+/HEAD/docs/PYTHON-HOWTO.md#digital-signatures
 import tink
 from tink import signature
 
